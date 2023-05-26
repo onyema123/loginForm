@@ -1,5 +1,21 @@
 * {
     background-color: rgb(249, 249, 4);
     color: #000000;
+    text-align: center;
+    
+}
+.container{
+    margin-left: 2rem;
+}
+
+.btn2{
+    margin-top: 1.5rem;
+    
+    
+}
+.display-two{
+    color: #ffffff;
+    background-color: #ff0000;
+    border-radius: 1rem;
     
 }
